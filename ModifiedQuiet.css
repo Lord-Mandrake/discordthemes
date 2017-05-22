@@ -1665,8 +1665,6 @@ button.bd-customicon-settings{display:none;}
 
 #user-profile-modal .header .header-info .header-info-inner .activity{color:#a5a5a5;}
 
-.message-group:not(.compact) .avatar-large[style*="81388395867156480"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="81388395867156480"] ~ .member-inner .member-username .member-username-inner::after{content:"Salty Developer";color:#fff;background:var(--main-color);border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 2px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;}
-
 .new-messages-indicator.bottom .icon.icon-unread-arrow,.new-messages-indicator .icon.icon-unread-arrow{margin-right:-19px;}
 
 .new-messages-indicator.new-messages-indicator-mention{margin-left:-52px;}
@@ -2843,10 +2841,6 @@ polyline[stroke*="#7289da"]{stroke:var(--main-color) !important;}
 
 .friends-icon{background-image: url(https://bearddesign.s-ul.eu/Dr2CyE1L.svg)!important; }
 
-[style*="81388395867156480"] ~ .member-inner .member-username-inner,
-[style*="81388395867156480"] ~ .comment .user-name {font-size:0px !important;}
-[style*="81388395867156480"] ~ .member-inner .member-username-inner::before,
-[style*="81388395867156480"] ~ .comment .user-name::after {content:"betterdocs.net";font-size:16px;}
 
 .channel-members .member .avatar-small[style*="81388395867156480"] ~ .member-inner .member-username .member-username-inner::after{line-height: 26px!important;}
 
